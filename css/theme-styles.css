@@ -277,10 +277,10 @@ h5 {
   height: 500px;
 }
 .bg-light-1 {
-  background: url("/metronic/assets/pages/img/frontend-slider/bg02_BK.jpg") no-repeat center;
+  background: url("/zanerio.io/metronic/assets/pages/img/frontend-slider/bg02_BK.jpg") no-repeat center;
 }
 .bg-light-2 {
-  background: url("/metronic/assets/pages/img/frontend-slider/bg05.jpg") no-repeat center;
+  background: url("/zanerio.io/metronic/assets/pages/img/frontend-slider/bg05.jpg") no-repeat center;
 }
 .bg-darken {
   background-image: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url("/metronic/assets/pages/img/frontend-slider/bg05.jpg");
