@@ -1448,6 +1448,9 @@ Pre-Footer and pre-footer elements
 .pre-footer a {
 	color: #9a2cb0;
 }
+.pre-footer a:hover {
+	color: #ffffff;
+}
 .pre-footer h2,
 .ecommerce .pre-footer h2 {
 	font-size: 21px;
