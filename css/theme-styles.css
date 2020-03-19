@@ -263,7 +263,7 @@ h5 {
 .row-corporate {
   height: 600px;
   background-size: cover !important;
-  background-attachment: !important;
+  background-attachment: fixed !important;
   overflow: hidden;
   height: 600px;
 }
