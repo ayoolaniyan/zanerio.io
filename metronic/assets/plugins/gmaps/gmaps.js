@@ -1612,7 +1612,7 @@ GMaps.prototype.toImage = function(options) {
 GMaps.staticMapURL = function(options){
   var parameters = [],
       data,
-      static_root = 'https://maps.googleapis.com/maps/api/staticmap?center=40.714%2c%20-73.998&zoom=12&size=400x400&key=AIzaSyCiwaWKPjSjOFjDcvPWFK14UEDrv88i1uk';
+      static_root = 'https://maps.googleapis.com/maps/api/staticmap?center=40.714%2c%20-73.998&zoom=12&size=400x400&key=YOUR_API_KEY';
 
   if (options.url) {
     static_root = options.url;
